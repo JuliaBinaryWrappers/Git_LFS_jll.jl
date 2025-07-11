@@ -1,0 +1,160 @@
+[[Git_LFS]]
+arch = "aarch64"
+git-tree-sha1 = "154306f0b5fcd9c59ee1d37c70553c8b8ab75ba4"
+os = "macos"
+
+    [[Git_LFS.download]]
+    sha256 = "af124e980ee35378a50a6fd831daa20dcf050437092830ccb5cdd428402f7f5d"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.aarch64-apple-darwin.tar.gz"
+[[Git_LFS]]
+arch = "aarch64"
+git-tree-sha1 = "cd92cf50412d4dd0e31d93cad9fc76b76ae4365f"
+libc = "glibc"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "1a25c0d07531ff4960b82d869c8150f0f0a849db453dd448fecdcb89000fa2b5"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.aarch64-linux-gnu.tar.gz"
+[[Git_LFS]]
+arch = "aarch64"
+git-tree-sha1 = "cd92cf50412d4dd0e31d93cad9fc76b76ae4365f"
+libc = "musl"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "1a25c0d07531ff4960b82d869c8150f0f0a849db453dd448fecdcb89000fa2b5"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.aarch64-linux-musl.tar.gz"
+[[Git_LFS]]
+arch = "aarch64"
+git-tree-sha1 = "4993b9dad6f9b2077601d5776ef2ada3f0f8cb88"
+os = "freebsd"
+
+    [[Git_LFS.download]]
+    sha256 = "d092341ac9ef00a16fd30b7839a0079709ccc1073f2681b9d85dee4a90166e47"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.aarch64-unknown-freebsd.tar.gz"
+[[Git_LFS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ce8dff6179f457ab31369365228b951f22ff96e2"
+libc = "glibc"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "17e96632648814f8d25151cd517f4badb85c8d4b470bd73b93d44d3d8bce098f"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.armv6l-linux-gnueabihf.tar.gz"
+[[Git_LFS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ce8dff6179f457ab31369365228b951f22ff96e2"
+libc = "musl"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "17e96632648814f8d25151cd517f4badb85c8d4b470bd73b93d44d3d8bce098f"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.armv6l-linux-musleabihf.tar.gz"
+[[Git_LFS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "88368262ca969e4f1948d83f09242b0a14ec2d3f"
+libc = "glibc"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "4093d1e1ad32e6410ff1eb860e74ed91e62676d9632a3d5f0c12132be0b81281"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.armv7l-linux-gnueabihf.tar.gz"
+[[Git_LFS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "88368262ca969e4f1948d83f09242b0a14ec2d3f"
+libc = "musl"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "4093d1e1ad32e6410ff1eb860e74ed91e62676d9632a3d5f0c12132be0b81281"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.armv7l-linux-musleabihf.tar.gz"
+[[Git_LFS]]
+arch = "i686"
+git-tree-sha1 = "bbc6632ddf5474b251ac66b7f4589f825c02d9b0"
+libc = "glibc"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "7eee66f0aabe2a305cfe5288d3ef1eabe5898d9506e28d0d45515eb8b2d5d2ab"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.i686-linux-gnu.tar.gz"
+[[Git_LFS]]
+arch = "i686"
+git-tree-sha1 = "bbc6632ddf5474b251ac66b7f4589f825c02d9b0"
+libc = "musl"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "7eee66f0aabe2a305cfe5288d3ef1eabe5898d9506e28d0d45515eb8b2d5d2ab"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.i686-linux-musl.tar.gz"
+[[Git_LFS]]
+arch = "i686"
+git-tree-sha1 = "ef4f6bd35008b74312f220b3d3623682dd8d5004"
+os = "windows"
+
+    [[Git_LFS.download]]
+    sha256 = "a0ddbceb900fd24421b72e0489d6f03b5672e1161ba5bd02e093b1ea3fa46d94"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.i686-w64-mingw32.tar.gz"
+[[Git_LFS]]
+arch = "powerpc64le"
+git-tree-sha1 = "c8b8afb5482ad61e63ab811174bae1ac4517e6ea"
+libc = "glibc"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "475dc1449c8ef73de5886f1a92a7372cc25e08ac7ce0ef56d1b5d7c225f3d859"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.powerpc64le-linux-gnu.tar.gz"
+[[Git_LFS]]
+arch = "riscv64"
+git-tree-sha1 = "648d55f93b71f81a92f677dc4705f90d6aad383e"
+libc = "glibc"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "aca126e0a2803f83f28fb4ee1d4cfddbde3cf9262ed03f6eb2e57e168d992b2e"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.riscv64-linux-gnu.tar.gz"
+[[Git_LFS]]
+arch = "x86_64"
+git-tree-sha1 = "e452980f70fe1626431f995cc99ae9dff7aad000"
+os = "macos"
+
+    [[Git_LFS.download]]
+    sha256 = "716b0308bbe2512e0ba8e799bb429085ef58e9c5c665d87f82bacc0b050ea374"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.x86_64-apple-darwin.tar.gz"
+[[Git_LFS]]
+arch = "x86_64"
+git-tree-sha1 = "65b962c68bed01a34a1a9ee23cbdde4dc3fe2246"
+libc = "glibc"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "bbacdb805b8542169ff4e7099fca951502a9b50d96fa84cab7b5d045c5c889a5"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.x86_64-linux-gnu.tar.gz"
+[[Git_LFS]]
+arch = "x86_64"
+git-tree-sha1 = "09324f3b5f319bbe050a950fef1dc9acab23ffbd"
+libc = "musl"
+os = "linux"
+
+    [[Git_LFS.download]]
+    sha256 = "d905ab3d914355750ac6233631490158e39f0a5c75ca1435952f6889d0b862b2"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.x86_64-linux-musl.tar.gz"
+[[Git_LFS]]
+arch = "x86_64"
+git-tree-sha1 = "0ad1e19c5922264be7a7de5ada6a30e60ff9e6e6"
+os = "freebsd"
+
+    [[Git_LFS.download]]
+    sha256 = "12876967954da41f13a17a21edbc83a7d18a434e1178a6acef246c919b26740d"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.x86_64-unknown-freebsd.tar.gz"
+[[Git_LFS]]
+arch = "x86_64"
+git-tree-sha1 = "65c7890901e989ad9d95ecd5c32738a8f698f6c4"
+os = "windows"
+
+    [[Git_LFS.download]]
+    sha256 = "16c4b3672f8eb48faa24f366acd84eed9fcbda94f45a20ed00cf1eab307a84b1"
+    url = "https://github.com/JuliaBinaryWrappers/Git_LFS_jll.jl/releases/download/Git_LFS-v3.7.0+0/Git_LFS.v3.7.0.x86_64-w64-mingw32.tar.gz"
